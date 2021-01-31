@@ -2,4 +2,4 @@
 
 Toggleable navigation with animation 
 
-[Demo](http://github.com)
+[Demo](https://unknown-cat.github.io/my-projects/animated-navigation/)
