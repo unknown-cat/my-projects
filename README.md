@@ -7,4 +7,4 @@ Project folder | Demo | Short description
 [Expanding cards](https://github.com/unknown-cat/my-projects/tree/master/expanding-cards) | [Demo](https://unknown-cat.github.io/my-projects/expanding-cards/) | click to expand
 [Scroll-animation](https://github.com/unknown-cat/my-projects/tree/master/scroll-animation) | [Demo](https://unknown-cat.github.io/my-projects/scroll-animation/) | show content on scroll
 [Animated-navigation](https://github.com/unknown-cat/my-projects/tree/master/animated-navigation) | [Demo](https://unknown-cat.github.io/my-projects/animated-navigation/) | toggleable navigation
-[Form Input Wave](https://github.com/unknown-cat/my-projects/tree/master/form-input-wave) | [Demo](https://unknown-cat.github.io/my-projects/form-input-wave/) | animated letters
+[Form Input Wave](https://github.com/unknown-cat/my-projects/tree/master/form-input-wave) | [Demo](https://unknown-cat.github.io/my-projects/form-input-wave/index.html) | animated letters
