@@ -2,4 +2,4 @@
 
 Random generated jokes
 
-[Demo](https://unknown-cat.github.io/my-projects/dad-jokes/)
+[Demo](https://unknown-cat.github.io/projects/dad-jokes/)
