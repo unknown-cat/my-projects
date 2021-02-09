@@ -12,3 +12,5 @@ Project folder | Demo | Short description
 [Choice picker](https://github.com/unknown-cat/projects/tree/master/choice-picker) | [Demo](https://unknown-cat.github.io/projects/choice-picker/) | randomly pick a word
 [Event key codes](https://github.com/unknown-cat/projects/tree/master/event-key-codes) | [Demo](https://unknown-cat.github.io/projects/event-key-codes/) | press any key to get the keyCode
 [Hidden search widget](https://github.com/unknown-cat/projects/tree/master/hidden-search-widget) | [Demo](https://unknown-cat.github.io/projects/hidden-search-widget/) | hidden search widget
+[Dad jokes](https://github.com/unknown-cat/projects/tree/master/dad-jokes) | [Demo](https://unknown-cat.github.io/projects/dad-jokes/) | randomly generated dad jokes
+[Progress steps](https://github.com/unknown-cat/projects/tree/master/progress-steps) | [Demo](https://unknown-cat.github.io/projects/progress-steps/) | progress steps
