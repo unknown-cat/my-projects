@@ -14,3 +14,5 @@ Project folder | Demo | Short description
 [Hidden search widget](https://github.com/unknown-cat/projects/tree/master/hidden-search-widget) | [Demo](https://unknown-cat.github.io/projects/hidden-search-widget/) | hidden search widget
 [Dad jokes](https://github.com/unknown-cat/projects/tree/master/dad-jokes) | [Demo](https://unknown-cat.github.io/projects/dad-jokes/) | randomly generated dad jokes
 [Progress steps](https://github.com/unknown-cat/projects/tree/master/progress-steps) | [Demo](https://unknown-cat.github.io/projects/progress-steps/) | progress steps
+[Sound board](https://github.com/unknown-cat/projects/tree/master/sound-board) | [Demo](https://unknown-cat.github.io/projects/sound-board/) | progress steps
+[Rotating navigation](https://github.com/unknown-cat/projects/tree/master/rotating-navigation) | [Demo](https://unknown-cat.github.io/projects/rotating-navigation/) | progress steps
