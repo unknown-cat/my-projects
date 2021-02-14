@@ -1,6 +1,6 @@
 # My projects
 
-| number | Project folder | Demo | Short description
+| Num | Project folder | Demo | Short description
 |-------|---------------|------|------------------
 1 | [Frequently asked questions](https://github.com/unknown-cat/projects/tree/master/faq) | [Demo](https://unknown-cat.github.io/projects/faq/) | expand or shrink a cards
 2 | [Split landing page](https://github.com/unknown-cat/projects/tree/master/split-landing-page) | [Demo](https://unknown-cat.github.io/projects/split-landing-page/) | split landing page
