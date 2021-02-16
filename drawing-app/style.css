@@ -23,8 +23,8 @@ canvas {
 	display: flex;
 	width: 804px;
 	padding: 1rem;
-	border: 1px solid slateblue;
-	background-color: steelblue;
+	border: 2px solid steelblue;
+	background-color: lightsteelblue;
 }
 
 .toolbox > * {
@@ -38,6 +38,7 @@ canvas {
 	padding: 0.25rem;
 	border: none;
 	background-color: #ffffff;
+	color: #4a4a4a;
 	cursor: pointer;
 }
 
