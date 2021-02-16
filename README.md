@@ -14,6 +14,6 @@
 10 | [Hidden search widget](https://github.com/unknown-cat/projects/tree/master/hidden-search-widget) | [Demo](https://unknown-cat.github.io/projects/hidden-search-widget/) | hidden search widget
 11 | [Dad jokes](https://github.com/unknown-cat/projects/tree/master/dad-jokes) | [Demo](https://unknown-cat.github.io/projects/dad-jokes/) | randomly generated dad jokes
 12 | [Progress steps](https://github.com/unknown-cat/projects/tree/master/progress-steps) | [Demo](https://unknown-cat.github.io/projects/progress-steps/) | progress steps
-13 | [Sound board](https://github.com/unknown-cat/projects/tree/master/sound-board) | [Demo](https://unknown-cat.github.io/projects/sound-board/) | progress steps
-14| [Rotating navigation](https://github.com/unknown-cat/projects/tree/master/rotating-navigation) | [Demo](https://unknown-cat.github.io/projects/rotating-navigation/) | progress steps
+13 | [Sound board](https://github.com/unknown-cat/projects/tree/master/sound-board) | [Demo](https://unknown-cat.github.io/projects/sound-board/) | sound board
+14| [Rotating navigation](https://github.com/unknown-cat/projects/tree/master/rotating-navigation) | [Demo](https://unknown-cat.github.io/projects/rotating-navigation/) | Rotating nav animation 
 15| [Drawing app](https://github.com/unknown-cat/projects/tree/master/drawing-app) | [Demo](https://unknown-cat.github.io/projects/drawing-app/) | drawing pad ui
