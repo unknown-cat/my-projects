@@ -1,5 +1,5 @@
 # Rotating navigation
 
-Rotating nav animation
+rotating nav animation
 
 [Demo](https://unknown-cat.github.io/projects/rotating-navigation/)
