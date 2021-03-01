@@ -20,3 +20,4 @@
 16| [Incrementing counter](https://github.com/unknown-cat/projects/tree/master/incrementing-counter) | [Demo](https://unknown-cat.github.io/projects/incrementing-counter/) | incrementing counter
 17| [Drink water](https://github.com/unknown-cat/projects/tree/master/drink-water) | [Demo](https://unknown-cat.github.io/projects/drink-water/) | add cups to see how much remains to drink
 18| [Movie app](https://github.com/unknown-cat/projects/tree/master/movie-app) | [Demo](https://unknown-cat.github.io/projects/movie-app/) | search movies from the themoviedb.org
+19| [Background slider](https://github.com/unknown-cat/projects/tree/master/background-slider) | [Demo](https://unknown-cat.github.io/projects/background-slider/) | background slider
