@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo:300&display=swap");
+
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	--primary-color: #000000;
+	--secondary-color: #ffffff;
+}
+
+html {
+	transition: all 0.5s ease-in;
+}
+
+html.dark {
+	--primary-color: #ffffff;
+	--secondary-color: #333333;
+}
+
+html.dark {
+	color: var(--primary-color);
+	background-color: #111111;
+}
+
+body {
+	font-family: "Heebo", sans-serif;
+	display: flex;
+	overflow: hidden;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+}
+
+.toggle {
+	position: absolute;
+	top: 100px;
+	padding: 8px 12px;
+	color: var(--secondary-color);
+	border: 0;
+	border-radius: 4px;
+	background-color: var(--primary-color);
+	cursor: pointer;
+}
+
+.clock-container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.clock {
+	position: relative;
+	width: 200px;
+	height: 200px;
+}
+
+.needle {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 3px;
+	height: 65px;
+	transform-origin: bottom center;
+	background-color: var(--primary-color);
+	transition: all 0.1s ease-in;
+}
+
+.needle.hour {
+	transform: translate(-50%, -100%) rotate(0deg);
+}
+
+.needle.minute {
+	height: 100px;
+	transform: translate(-50%, -100%) rotate(0deg);
+}
+
+.needle.second {
+	height: 100px;
+	transform: translate(-50%, -100%) rotate(0deg);
+	background-color: #e74c3c;
+}
+
+.center-point {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 10px;
+	height: 10px;
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	background-color: #e74c3c;
+}
+
+.center-point::after {
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 5px;
+	height: 5px;
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	background-color: var(--primary-color);
+}
+
+.time {
+	font-size: 60px;
+}
+
+.date {
+	font-size: 14px;
+	letter-spacing: 0.3px;
+	text-transform: uppercase;
+	color: #aaaaaa;
+}
+
+.date .circle {
+	font-size: 12px;
+	line-height: 18px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 18px;
+	height: 18px;
+	transition: 0.5s ease-in;
+	color: var(--secondary-color);
+	border-radius: 50%;
+	background-color: var(--primary-color);
+}
+
+
+
+
+
+
