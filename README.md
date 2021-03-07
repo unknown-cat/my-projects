@@ -24,3 +24,5 @@
 20 | [Theme clock](https://github.com/unknown-cat/projects/tree/master/theme-clock) | [Demo](https://unknown-cat.github.io/projects/theme-clock/) | theme clock
 21 | [Button ripple effect](https://github.com/unknown-cat/projects/tree/master/button-ripple-effect) | [Demo](https://unknown-cat.github.io/projects/button-ripple-effect/) | button ripple effect
 22 | [Drag and drop](https://github.com/unknown-cat/projects/tree/master/drag-n-drop) | [Demo](https://unknown-cat.github.io/projects/drag-n-drop/) | drag and drop
+23 | [Kinetic loader](https://github.com/unknown-cat/projects/tree/master/kinetic-loader) | [Demo](https://unknown-cat.github.io/projects/kinetic-loader/) | kinetic loader
+24 | [Content Placeholder](https://github.com/unknown-cat/projects/tree/master/content-placeholder) | [Demo](https://unknown-cat.github.io/projects/content-placeholder/) | content placeholder
