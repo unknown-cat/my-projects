@@ -29,4 +29,4 @@
 24 | [Sticky Navigation](https://github.com/unknown-cat/projects/tree/master/sticky-navigation) | [Demo](https://unknown-cat.github.io/projects/sticky-navigation/) | sticky navigation
 25 | [Vertical slider](https://github.com/unknown-cat/projects/tree/master/vertical-slider) | [Demo](https://unknown-cat.github.io/projects/vertical-slider/) | vertical slider
 26 | [Toast notification](https://github.com/unknown-cat/projects/tree/master/toast-notification) | [Demo](https://unknown-cat.github.io/projects/toast-notification/) | toast notification
-27 | [Github profile](https://github.com/unknown-cat/projects/tree/master/github-profile) | [Demo](https://unknown-cat.github.io/projects/github-profile/) | search a Github user
+27 | [Github profile](https://github.com/unknown-cat/projects/tree/master/github-profiles) | [Demo](https://unknown-cat.github.io/projects/github-profiles/) | search a Github user
