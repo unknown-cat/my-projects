@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
+
+:root {
+	--main-color: #9f8cff;
+	--standart-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Poppins", sans-serif;
+	display: flex;
+	overflow: hidden;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+	background-color: var(--main-color);
+}
+
+.btn {
+	font-family: inherit;
+	font-weight: bold;
+	padding: 1rem;
+	cursor: pointer;
+	color: var(--main-color);
+	border: none;
+	border-radius: 5px;
+	background-color: #ffffff;
+	box-shadow: var(--standart-shadow);
+}
+
+.btn:focus {
+	outline: none;
+}
+
+.btn:active {
+	transform: scale(0.98);
+}
+
+.toasts {
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	display: flex;
+	align-items: flex-end;
+	flex-direction: column;
+}
+
+.toast-item {
+	margin: 0.5rem;
+	padding: 1rem 2rem;
+	color: var(--main-color);
+	border-radius: 5px;
+	background-color: #ffffff;
+	box-shadow: var(--standart-shadow);
+}
+
+.toast-item.info {
+	color: steelblue;
+}
+
+.toast-item.success {
+	color: forestgreen;
+}
+
+.toast-item.error {
+	color: tomato;
+}
