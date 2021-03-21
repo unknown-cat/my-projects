@@ -26,8 +26,12 @@
 22 | [Drag and drop](https://github.com/unknown-cat/projects/tree/master/drag-n-drop) | [Demo](https://unknown-cat.github.io/projects/drag-n-drop/) | drag and drop
 23 | [Kinetic loader](https://github.com/unknown-cat/projects/tree/master/kinetic-loader) | [Demo](https://unknown-cat.github.io/projects/kinetic-loader/) | kinetic loader
 24 | [Content Placeholder](https://github.com/unknown-cat/projects/tree/master/content-placeholder) | [Demo](https://unknown-cat.github.io/projects/content-placeholder/) | content placeholder
-24 | [Sticky Navigation](https://github.com/unknown-cat/projects/tree/master/sticky-navigation) | [Demo](https://unknown-cat.github.io/projects/sticky-navigation/) | sticky navigation
-25 | [Vertical slider](https://github.com/unknown-cat/projects/tree/master/vertical-slider) | [Demo](https://unknown-cat.github.io/projects/vertical-slider/) | vertical slider
-26 | [Toast notification](https://github.com/unknown-cat/projects/tree/master/toast-notification) | [Demo](https://unknown-cat.github.io/projects/toast-notification/) | toast notification
-27 | [Github profile](https://github.com/unknown-cat/projects/tree/master/github-profiles) | [Demo](https://unknown-cat.github.io/projects/github-profiles/) | search a Github user
-28 | [Double click heart](https://github.com/unknown-cat/projects/tree/master/double-click-heart) | [Demo](https://unknown-cat.github.io/projects/double-click-heart/) | double click heart
+25 | [Sticky Navigation](https://github.com/unknown-cat/projects/tree/master/sticky-navigation) | [Demo](https://unknown-cat.github.io/projects/sticky-navigation/) | sticky navigation
+26 | [Vertical slider](https://github.com/unknown-cat/projects/tree/master/vertical-slider) | [Demo](https://unknown-cat.github.io/projects/vertical-slider/) | vertical slider
+27 | [Toast notification](https://github.com/unknown-cat/projects/tree/master/toast-notification) | [Demo](https://unknown-cat.github.io/projects/toast-notification/) | toast notification
+28 | [Github profile](https://github.com/unknown-cat/projects/tree/master/github-profiles) | [Demo](https://unknown-cat.github.io/projects/github-profiles/) | search a Github user
+29 | [Double click heart](https://github.com/unknown-cat/projects/tree/master/double-click-heart) | [Demo](https://unknown-cat.github.io/projects/double-click-heart/) | double click heart
+30 | [Auto text effect](https://github.com/unknown-cat/projects/tree/master/auto-text-effect) | [Demo](https://unknown-cat.github.io/projects/auto-text-effect/) | auto text effect
+31 | [Password generator](https://github.com/unknown-cat/projects/tree/master/password-generator) | [Demo](https://unknown-cat.github.io/projects/password-generator/) | password generator
+32 | [Good, cheap , fast](https://github.com/unknown-cat/projects/tree/master/good-cheap-fast) | [Demo](https://unknown-cat.github.io/projects/good-cheap-fast/) | slider widgets
+33 | [Notes app](https://github.com/unknown-cat/projects/tree/master/notes-app) | [Demo](https://unknown-cat.github.io/projects/notes-app/) | slider widgets
