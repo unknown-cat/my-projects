@@ -34,4 +34,8 @@
 30 | [Auto text effect](https://github.com/unknown-cat/projects/tree/master/auto-text-effect) | [Demo](https://unknown-cat.github.io/projects/auto-text-effect/) | auto text effect
 31 | [Password generator](https://github.com/unknown-cat/projects/tree/master/password-generator) | [Demo](https://unknown-cat.github.io/projects/password-generator/) | password generator
 32 | [Good, cheap , fast](https://github.com/unknown-cat/projects/tree/master/good-cheap-fast) | [Demo](https://unknown-cat.github.io/projects/good-cheap-fast/) | slider widgets
-33 | [Notes app](https://github.com/unknown-cat/projects/tree/master/notes-app) | [Demo](https://unknown-cat.github.io/projects/notes-app/) | slider widgets
+33 | [Notes app](https://github.com/unknown-cat/projects/tree/master/notes-app) | [Demo](https://unknown-cat.github.io/projects/notes-app/) | create, edit, delete notes
+34 | [Animated Countdown](https://github.com/unknown-cat/projects/tree/master/animated-countdown) | [Demo](https://unknown-cat.github.io/projects/animated-countdown/) | animated countdown
+35 | [Image Carousel](https://github.com/unknown-cat/projects/tree/master/image-carousel) | [Demo](https://unknown-cat.github.io/projects/image-carousel/) | image carousel
+36 | [Hover board](https://github.com/unknown-cat/projects/tree/master/hover-board) | [Demo](https://unknown-cat.github.io/projects/hover-board/) | hover board
+37 | [Pokedex](https://github.com/unknown-cat/projects/tree/master/pokedex) | [Demo](https://unknown-cat.github.io/projects/pokedex/) | list of pokemon's from the pokemon api
