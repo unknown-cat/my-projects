@@ -39,3 +39,5 @@
 35 | [Image Carousel](https://github.com/unknown-cat/projects/tree/master/image-carousel) | [Demo](https://unknown-cat.github.io/projects/image-carousel/) | image carousel
 36 | [Hover board](https://github.com/unknown-cat/projects/tree/master/hover-board) | [Demo](https://unknown-cat.github.io/projects/hover-board/) | hover board
 37 | [Pokedex](https://github.com/unknown-cat/projects/tree/master/pokedex) | [Demo](https://unknown-cat.github.io/projects/pokedex/) | list of pokemon's from the pokemon api
+38 | [Mobile tab nav](https://github.com/unknown-cat/projects/tree/master/mobile-tab-nav) | [Demo](https://unknown-cat.github.io/projects/mobile-tab-nav/) | list of pokemon's from the pokemon api
+39 | [Password strength background](https://github.com/unknown-cat/projects/tree/master/password-strength-background) | [Demo](https://unknown-cat.github.io/projects/password-strength-background/) |password strength background
