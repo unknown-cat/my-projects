@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+	background-color: rgba(155, 89, 182, 0.7);
+}
+
+.phone {
+	position: relative;
+	overflow: hidden;
+	width: 340px;
+	height: 600px;
+	border: 3px solid #eeeeee;
+	border-radius: 15px;
+}
+
+.phone .content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: calc(100% - 60px);
+	transition: opacity 0.4s ease;
+	opacity: 0;
+	object-fit: cover;
+}
+
+.phone .content.show {
+	opacity: 1;
+}
+
+.nav {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	margin-top: -5px;
+}
+
+.nav-list {
+	display: flex;
+	height: 60px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: #ffffff;
+}
+
+.nav .list-item {
+	flex: 1;
+	padding: 10px;
+	cursor: pointer;
+	text-align: center;
+	color: #777777;
+}
+
+.list-item p {
+	font-size: 12px;
+	margin: 2px 0;
+}
+
+.nav-list .list-item:hover,
+.nav-list .list-item.active {
+	color: #8e44ad;
+}
