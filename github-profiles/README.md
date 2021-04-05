@@ -1,3 +1,3 @@
 # Github profiles
 
-[Demo](https://unknown-cat.github.io/projects/github-profile/)
+[Demo](https://unknown-cat.github.io/projects/github-profiles/)
