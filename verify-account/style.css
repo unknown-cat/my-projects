@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:300,700&display=swap");
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Muli", sans-serif;
+	display: flex;
+	overflow: hidden;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+	background-color: #fbfcfe;
+}
+
+.container {
+	max-width: 1000px;
+	padding: 30px;
+	text-align: center;
+	border: 3px solid #000000;
+	border-radius: 10px;
+	background-color: #ffffff;
+}
+
+.code-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 40px 0;
+}
+
+.code {
+	font-size: 75px;
+	font-weight: 300;
+	width: 100px;
+	height: 120px;
+	margin: 1%;
+	text-align: center;
+	border: 1px solid #eeeeee;
+	border-radius: 5px;
+	-moz-appearance: textfield;
+}
+
+.code::-webkit-outer-spin-button,
+.code::-webkit-inner-spin-button {
+	margin: 0;
+	-webkit-appearance: none;
+}
+
+.code:valid {
+	border-color: #3498db;
+	box-shadow: 0 10px 10px -5px rgba(0, 0, 0, 0.25);
+}
+
+.info {
+	line-height: 20px;
+	display: inline-block;
+	max-width: 400px;
+	padding: 10px;
+	color: #777777;
+	border-radius: 5px;
+	background-color: #eeeeee;
+}
+
+@media (max-width: 600px) {
+	.code-container {
+		flex-wrap: wrap;
+	}
+
+	.code {
+		font-size: 60px;
+		max-width: 70px;
+		height: 80px;
+	}
+}
