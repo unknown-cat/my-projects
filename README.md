@@ -39,7 +39,6 @@
 35 | [Image Carousel](https://github.com/unknown-cat/projects/tree/master/image-carousel) | [Demo](https://unknown-cat.github.io/projects/image-carousel/) | image carousel
 36 | [Hover board](https://github.com/unknown-cat/projects/tree/master/hover-board) | [Demo](https://unknown-cat.github.io/projects/hover-board/) | hover board
 37 | [Pokedex](https://github.com/unknown-cat/projects/tree/master/pokedex) | [Demo](https://unknown-cat.github.io/projects/pokedex/) | list of pokemon's from the pokemon api
-<<<<<<< HEAD
 38 | [Mobile tab nav](https://github.com/unknown-cat/projects/tree/master/mobile-tab-nav) | [Demo](https://unknown-cat.github.io/projects/mobile-tab-nav/) | mobile tab nav
 39 | [Password strength background](https://github.com/unknown-cat/projects/tree/master/password-strength-background) | [Demo](https://unknown-cat.github.io/projects/password-strength-background/) | password strength background
 40 | [Verify account](https://github.com/unknown-cat/projects/tree/master/verify-account) | [Demo](https://unknown-cat.github.io/projects/verify-account/) | verify account
@@ -53,7 +52,3 @@
 48 | [Random image feed](https://github.com/unknown-cat/projects/tree/master/random-image-feed) | [Demo](https://unknown-cat.github.io/projects/random-image-feed/) | random images
 49 | [Todo list](https://github.com/unknown-cat/projects/tree/master/todo-list) | [Demo](https://unknown-cat.github.io/projects/todo-list/) | todo list
 50 | [Catch the insect](https://github.com/unknown-cat/projects/tree/master/catch-the-insect) | [Demo](https://unknown-cat.github.io/projects/catch-the-insect/) | catch the insect game
-=======
-38 | [Mobile tab nav](https://github.com/unknown-cat/projects/tree/master/mobile-tab-nav) | [Demo](https://unknown-cat.github.io/projects/mobile-tab-nav/) | list of pokemon's from the pokemon api
-39 | [Password strength background](https://github.com/unknown-cat/projects/tree/master/password-strength-background) | [Demo](https://unknown-cat.github.io/projects/password-strength-background/) |password strength background
->>>>>>> 0dbf0e0884b7243af350a5cc7ebcee97ed95bdcf
