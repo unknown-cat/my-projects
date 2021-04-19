@@ -1,4 +1,4 @@
-# My projects
+# Project list
 
 | Num | Project folder | Demo | Short description
 |-------|---------------|------|------------------
@@ -33,11 +33,22 @@
 29 | [Double click heart](https://github.com/unknown-cat/projects/tree/master/double-click-heart) | [Demo](https://unknown-cat.github.io/projects/double-click-heart/) | double click heart
 30 | [Auto text effect](https://github.com/unknown-cat/projects/tree/master/auto-text-effect) | [Demo](https://unknown-cat.github.io/projects/auto-text-effect/) | auto text effect
 31 | [Password generator](https://github.com/unknown-cat/projects/tree/master/password-generator) | [Demo](https://unknown-cat.github.io/projects/password-generator/) | password generator
-32 | [Good, cheap , fast](https://github.com/unknown-cat/projects/tree/master/good-cheap-fast) | [Demo](https://unknown-cat.github.io/projects/good-cheap-fast/) | slider widgets
+32 | [Good, cheap, fast](https://github.com/unknown-cat/projects/tree/master/good-cheap-fast) | [Demo](https://unknown-cat.github.io/projects/good-cheap-fast/) | slider widgets
 33 | [Notes app](https://github.com/unknown-cat/projects/tree/master/notes-app) | [Demo](https://unknown-cat.github.io/projects/notes-app/) | create, edit, delete notes
 34 | [Animated Countdown](https://github.com/unknown-cat/projects/tree/master/animated-countdown) | [Demo](https://unknown-cat.github.io/projects/animated-countdown/) | animated countdown
 35 | [Image Carousel](https://github.com/unknown-cat/projects/tree/master/image-carousel) | [Demo](https://unknown-cat.github.io/projects/image-carousel/) | image carousel
 36 | [Hover board](https://github.com/unknown-cat/projects/tree/master/hover-board) | [Demo](https://unknown-cat.github.io/projects/hover-board/) | hover board
 37 | [Pokedex](https://github.com/unknown-cat/projects/tree/master/pokedex) | [Demo](https://unknown-cat.github.io/projects/pokedex/) | list of pokemon's from the pokemon api
-38 | [Mobile tab nav](https://github.com/unknown-cat/projects/tree/master/mobile-tab-nav) | [Demo](https://unknown-cat.github.io/projects/mobile-tab-nav/) | list of pokemon's from the pokemon api
-39 | [Password strength background](https://github.com/unknown-cat/projects/tree/master/password-strength-background) | [Demo](https://unknown-cat.github.io/projects/password-strength-background/) |password strength background
+38 | [Mobile tab nav](https://github.com/unknown-cat/projects/tree/master/mobile-tab-nav) | [Demo](https://unknown-cat.github.io/projects/mobile-tab-nav/) | mobile tab nav
+39 | [Password strength background](https://github.com/unknown-cat/projects/tree/master/password-strength-background) | [Demo](https://unknown-cat.github.io/projects/password-strength-background/) | password strength background
+40 | [Verify account](https://github.com/unknown-cat/projects/tree/master/verify-account) | [Demo](https://unknown-cat.github.io/projects/verify-account/) | verify account
+41 | [Live user filter](https://github.com/unknown-cat/projects/tree/master/live-user-filter) | [Demo](https://unknown-cat.github.io/projects/live-user-filter/) | live user filter
+42 | [Feedback ui](https://github.com/unknown-cat/projects/tree/master/feedback-ui) | [Demo](https://unknown-cat.github.io/projects/feedback-ui/) | feedback ui
+43 | [Custom range slider](https://github.com/unknown-cat/projects/tree/master/custom-range-slider) | [Demo](https://unknown-cat.github.io/projects/custom-range-slider/) | custom range slider
+44 | [Netflix navigation](https://github.com/unknown-cat/projects/tree/master/netflix-navigation) | [Demo](https://unknown-cat.github.io/projects/netflix-navigation/) | netflix navigation
+45 | [Quiz app](https://github.com/unknown-cat/projects/tree/master/quiz-app) | [Demo](https://unknown-cat.github.io/projects/quiz-app/) | quiz-app
+46 | [3d boxes background](https://github.com/unknown-cat/projects/tree/master/3d-boxes-background) | [Demo](https://unknown-cat.github.io/projects/3d-boxes-background/) | 3d boxes background
+47 | [testimonial box switcher](https://github.com/unknown-cat/projects/tree/master/testimonial-box-switcher) | [Demo](https://unknown-cat.github.io/projects/testimonial-box-switcher/) | testimonial switcher
+48 | [Random image feed](https://github.com/unknown-cat/projects/tree/master/random-image-feed) | [Demo](https://unknown-cat.github.io/projects/random-image-feed/) | random images
+49 | [Todo list](https://github.com/unknown-cat/projects/tree/master/todo-list) | [Demo](https://unknown-cat.github.io/projects/todo-list/) | todo list
+50 | [Catch the insect](https://github.com/unknown-cat/projects/tree/master/catch-the-insect) | [Demo](https://unknown-cat.github.io/projects/catch-the-insect/) | catch the insect game
