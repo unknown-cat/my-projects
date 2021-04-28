@@ -59,7 +59,7 @@ function updateLS() {
   todosEl.forEach(todoEl => {
     todos.push({
       text: todoEl.innerText,
-      complete: todoEl.classList.contains('completed')
+      completed: todoEl.classList.contains('completed')
     })
   });
 
