@@ -1,4 +1,4 @@
-# Project's list
+# Project list
 
 | Num | Project folder | Demo | Short description
 |-------|---------------|------|------------------
